@@ -22,12 +22,12 @@ const styles = StyleSheet.create({
   title: {
     color: 'white',
     fontSize: 14,
-    fontFamily: 'MuseoSansBold',
+    fontFamily: 'MuseoSans-700',
   },
   votes: {
     color: '#c1c1c1',
     fontSize: 10,
-    fontFamily: 'MuseoSansRegular',
+    fontFamily: 'MuseoSans-500',
     marginTop: 4,
   },
 });

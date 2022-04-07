@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
   headerText: {
     fontSize: 42,
     color: 'black',
-    fontFamily: 'MuseoSansRegular',
+    fontFamily: 'MuseoSans-500',
     fontWeight: '900',
     marginLeft: 16,
   },
@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
   profileName: {
     color: 'black',
     fontSize: 22,
-    fontFamily: 'MuseoSansRegular',
+    fontFamily: 'MuseoSans-500',
     fontWeight: 'bold',
   },
   profileView: {
@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     marginTop: 4,
     width: width - 120,
     fontSize: 12,
-    fontFamily: 'MuseoSansRegular',
+    fontFamily: 'MuseoSans-500',
   },
 });
 

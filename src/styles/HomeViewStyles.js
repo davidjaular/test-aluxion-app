@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
   headerText: {
     fontSize: 26,
     color: 'black',
-    fontFamily: 'MuseoSansRegular',
+    fontFamily: 'MuseoSans-500',
     fontWeight: '700',
   },
   bars: {position: 'absolute', left: 26, top: 60, zIndex: 1},

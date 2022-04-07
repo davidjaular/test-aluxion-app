@@ -12,12 +12,12 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		4146375DDC534248B186022A /* MuseoSans-500.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1E34E6E065D24A71B6518E74 /* MuseoSans-500.otf */; };
 		7699B88040F8A987B510C191 /* libPods-aluxionapp-aluxionappTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-aluxionapp-aluxionappTests.a */; };
+		7B54DA1AC892436A845E1237 /* MuseoSans-700.otf in Resources */ = {isa = PBXBuildFile; fileRef = 10F1B45AD1D747F6ACFEE541 /* MuseoSans-700.otf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		512035887FBB44AB82BC9E69 /* MuseoSansBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7DDFC246736A4E43BD2A84FF /* MuseoSansBold.otf */; };
-		97B122E8B0B0461290436FF9 /* MuseoSansLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7502F9D1B90741F69C118E46 /* MuseoSansLight.otf */; };
-		4CD33B905D0F4FA9BFF9E4A9 /* MuseoSansRegular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6E4FA56B5DEA48B0BF7141E5 /* MuseoSansRegular.otf */; };
-		BFBB0A8BAA8748AAA169AB63 /* MuseoSansThin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 59C610B140F643EFA5411FB6 /* MuseoSansThin.otf */; };
+		B8C204554E8A409AADB03E94 /* MuseoSans-100.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0BE72675B11545688C389A23 /* MuseoSans-100.otf */; };
+		BF3AED823BDF46EF8BE116B7 /* MuseoSans-300.otf in Resources */ = {isa = PBXBuildFile; fileRef = D9A73603B3EC48F898905440 /* MuseoSans-300.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +34,8 @@
 		00E356EE1AD99517003FC87E /* aluxionappTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aluxionappTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* aluxionappTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = aluxionappTests.m; sourceTree = "<group>"; };
+		0BE72675B11545688C389A23 /* MuseoSans-100.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MuseoSans-100.otf"; path = "../src/assets/fonts/MuseoSans-100.otf"; sourceTree = "<group>"; };
+		10F1B45AD1D747F6ACFEE541 /* MuseoSans-700.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MuseoSans-700.otf"; path = "../src/assets/fonts/MuseoSans-700.otf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* aluxionapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aluxionapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = aluxionapp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = aluxionapp/AppDelegate.mm; sourceTree = "<group>"; };
@@ -41,17 +43,15 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = aluxionapp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = aluxionapp/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-aluxionapp-aluxionappTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-aluxionapp-aluxionappTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1E34E6E065D24A71B6518E74 /* MuseoSans-500.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MuseoSans-500.otf"; path = "../src/assets/fonts/MuseoSans-500.otf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-aluxionapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aluxionapp.debug.xcconfig"; path = "Target Support Files/Pods-aluxionapp/Pods-aluxionapp.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-aluxionapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aluxionapp.release.xcconfig"; path = "Target Support Files/Pods-aluxionapp/Pods-aluxionapp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-aluxionapp-aluxionappTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aluxionapp-aluxionappTests.debug.xcconfig"; path = "Target Support Files/Pods-aluxionapp-aluxionappTests/Pods-aluxionapp-aluxionappTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-aluxionapp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-aluxionapp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = aluxionapp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-aluxionapp-aluxionappTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aluxionapp-aluxionappTests.release.xcconfig"; path = "Target Support Files/Pods-aluxionapp-aluxionappTests/Pods-aluxionapp-aluxionappTests.release.xcconfig"; sourceTree = "<group>"; };
+		D9A73603B3EC48F898905440 /* MuseoSans-300.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MuseoSans-300.otf"; path = "../src/assets/fonts/MuseoSans-300.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		7DDFC246736A4E43BD2A84FF /* MuseoSansBold.otf */ = {isa = PBXFileReference; name = "MuseoSansBold.otf"; path = "../src/assets/fonts/MuseoSansBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		7502F9D1B90741F69C118E46 /* MuseoSansLight.otf */ = {isa = PBXFileReference; name = "MuseoSansLight.otf"; path = "../src/assets/fonts/MuseoSansLight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		6E4FA56B5DEA48B0BF7141E5 /* MuseoSansRegular.otf */ = {isa = PBXFileReference; name = "MuseoSansRegular.otf"; path = "../src/assets/fonts/MuseoSansRegular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		59C610B140F643EFA5411FB6 /* MuseoSansThin.otf */ = {isa = PBXFileReference; name = "MuseoSansThin.otf"; path = "../src/assets/fonts/MuseoSansThin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,16 +158,16 @@
 			sourceTree = "<group>";
 		};
 		F7A3F67D39754B43A5E0A2F9 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
-				7DDFC246736A4E43BD2A84FF /* MuseoSansBold.otf */,
-				7502F9D1B90741F69C118E46 /* MuseoSansLight.otf */,
-				6E4FA56B5DEA48B0BF7141E5 /* MuseoSansRegular.otf */,
-				59C610B140F643EFA5411FB6 /* MuseoSansThin.otf */,
+				0BE72675B11545688C389A23 /* MuseoSans-100.otf */,
+				D9A73603B3EC48F898905440 /* MuseoSans-300.otf */,
+				1E34E6E065D24A71B6518E74 /* MuseoSans-500.otf */,
+				10F1B45AD1D747F6ACFEE541 /* MuseoSans-700.otf */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
 			path = "";
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
@@ -265,10 +265,10 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				512035887FBB44AB82BC9E69 /* MuseoSansBold.otf in Resources */,
-				97B122E8B0B0461290436FF9 /* MuseoSansLight.otf in Resources */,
-				4CD33B905D0F4FA9BFF9E4A9 /* MuseoSansRegular.otf in Resources */,
-				BFBB0A8BAA8748AAA169AB63 /* MuseoSansThin.otf in Resources */,
+				B8C204554E8A409AADB03E94 /* MuseoSans-100.otf in Resources */,
+				BF3AED823BDF46EF8BE116B7 /* MuseoSans-300.otf in Resources */,
+				4146375DDC534248B186022A /* MuseoSans-500.otf in Resources */,
+				7B54DA1AC892436A845E1237 /* MuseoSans-700.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

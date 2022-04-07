@@ -53,10 +53,10 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
-		<string>MuseoSansBold.otf</string>
-		<string>MuseoSansLight.otf</string>
-		<string>MuseoSansRegular.otf</string>
-		<string>MuseoSansThin.otf</string>
+		<string>MuseoSans-100.otf</string>
+		<string>MuseoSans-300.otf</string>
+		<string>MuseoSans-500.otf</string>
+		<string>MuseoSans-700.otf</string>
 	</array>
 </dict>
 </plist>
